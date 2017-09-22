@@ -6,4 +6,5 @@ package com.lan.testlib;
 
 public class testActivity {
     int i = 1;
+    int s=1;
 }
